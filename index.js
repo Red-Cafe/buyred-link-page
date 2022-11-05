@@ -18,6 +18,10 @@
      4: {
       "name": "blogs",
       "url": "https://redcafe.lol/blog",
+    },
+    5: {
+      "name": "lay",
+      "url": "https://lay.rip",
     }
   }
   
